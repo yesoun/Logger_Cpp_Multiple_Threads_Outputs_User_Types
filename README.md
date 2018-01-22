@@ -11,7 +11,7 @@ o brief description of the work sample including rationale behind the implementa
 as its possible shortcomings and known issues
 o ideas for further development
 
-he logger needs to support multiple threads
+The logger needs to support multiple threads
 The logger needs to be able to support multiple outputs (file, console etc.)
 The logger needs to be able to support outputting user types
 The logger class API needs to be documented and validated with unit test(s)
