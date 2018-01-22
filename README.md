@@ -1,16 +1,5 @@
 # C++ Logger Class Programming Assignment
 
-## Introdution:
-The purpose of this assignment is to evaluate your ability to work with programming tasks that resemble
-the day-to-day activities of the Kanzi R&D team at Rightware. This assignment focuses on C++ programming
-and general middleware development practices.
-Kanzi R&D lists following characteristics valuable in written code and you should keep them in mind while
-working on the assignment. Both code and documentation quality will be evaluated.
-- Safety 
-- Modularity
-- Efficiency 
-- Readability & Maintainability
-- Reliability & Simplicity 
 
 
 ## Instruction:
@@ -18,7 +7,7 @@ working on the assignment. Both code and documentation quality will be evaluated
 
 - Focus both on the quality of the code and to the usability of the class (API).
 
-- Send your solution to Rightware in a ZIP package containing the following contents:
+- Send your solution in a ZIP package containing the following contents:
 	- source code, solution and project files.
 	- executable that is outputting log messages.	
 	- instructions how to compile.
