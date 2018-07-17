@@ -2,7 +2,6 @@
 # Author: Yassine Maalej, UIDAHO
 # email: maalej.yessine@gmail.com || maal4948@vandals.uidaho.edu
 # Makefile for Logger class and example of using it.
-# Part of the interview process with Rightware http://www.rightware.com/  in Troy Michigan
 # Date: December 4, 2017
 ##############################################################################################
 
