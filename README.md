@@ -17,7 +17,7 @@
 
 
 ## Requirements
-- Implementation language is C++ (with C++11 features available).
+- Implementation language is C++ (with C++14 features available).
 - The logger needs to support multiple threads.
 - The logger needs to be able to support multiple outputs (file, console etc.).
 - The logger needs to be able to support outputting user types.
